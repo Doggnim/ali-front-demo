@@ -1,0 +1,12 @@
+<view class="container">
+  <text class="title">{{title}}</text>
+  <text class="desc">
+    {{desc}}
+  </text>
+
+<button type="primary" onTap="onGetAuthCode">
+    获取授权码
+</button>
+
+</view>
+</view>
